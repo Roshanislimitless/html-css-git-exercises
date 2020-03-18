@@ -10,3 +10,9 @@
     columns: 3;
   }
 }
+
+@media all and (min-width: 768px) {
+  .countries {
+    columns: 2;
+  }
+}
